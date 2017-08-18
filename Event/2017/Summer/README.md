@@ -46,4 +46,4 @@
 - [ ] 狭霧
 - [x] 天霧
 - [ ] 松輪
-- [ ] Luigi Torelli
+- [x] Luigi Torelli

@@ -49,5 +49,4 @@
 - [ ] Luigi Torelli
 - [ ] Richelieu
 - [ ] Warspite
-- [ ]　Ark Royal
-
+- [ ] Ark Royal

@@ -48,5 +48,5 @@
 - [ ] 照月
 - [ ] Luigi Torelli
 - [ ] Richelieu
-- [ ] Warspite
+- [x] Warspite
 - [ ] Ark Royal

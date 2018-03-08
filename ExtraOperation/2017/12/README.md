@@ -1,4 +1,4 @@
-# 2017年9月期 Extra Operation攻略
+# 2017年12月期 Extra Operation攻略
 
 ## 攻略海域
 

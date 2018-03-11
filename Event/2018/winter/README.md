@@ -56,7 +56,7 @@
 
 - [x] 大東
 - [x] Jervis
-- [ ] 浜波
+- [x] 浜波
 - [x] Ташкент
 
 ### イベント限定艦
@@ -66,5 +66,6 @@
 - [ ] Luigi Torelli
 - [ ] Richelieu
 - [x] Warspite
+- [x] Graf Zeppelin
 - [ ] Ark Royal
 - [ ] Iowa

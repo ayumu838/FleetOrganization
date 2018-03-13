@@ -67,5 +67,5 @@
 - [ ] Richelieu
 - [x] Warspite
 - [x] Graf Zeppelin
-- [ ] Ark Royal
+- [x] Ark Royal
 - [ ] Iowa

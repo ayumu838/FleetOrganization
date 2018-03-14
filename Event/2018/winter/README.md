@@ -64,7 +64,7 @@
 - [ ] 春日丸
 - [ ] 照月
 - [ ] Luigi Torelli
-- [ ] Richelieu
+- [x] Richelieu
 - [x] Warspite
 - [x] Graf Zeppelin
 - [x] Ark Royal
